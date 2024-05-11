@@ -57,7 +57,8 @@
 - `...`[Zhan et al.]\[Coling 2022]**A Closer Look at Few-Shot Out-of-Distribution Intent Detection**[[PDF](https://aclanthology.org/2022.coling-1.36/)]\[[CODE](https://github.com/liam0949/Few-shot-Intent-OOD)]
 - `DCL`[Zhan et al.]\[ACL 2021]**Out-of-scope intent detection with self-supervision and discriminative training.** [[PDF](https://aclanthology.org/2021.acl-long.273/)]\[[CODE](https://github.com/liam0949/DCLOOS)]
 - `Closer-look`[Zhan et al.]\[Coling 2022]**A Closer Look at Few-Shot Out-of-Distribution Intent Detection**[[PDF](https://aclanthology.org/2022.coling-1.36/)]\[[CODE](https://github.com/liam0949/Few-shot-Intent-OOD)]
-- `DCL`[Zhan et al.]\[ACL 2021]**Out-of-scope intent detection with self-supervision and discriminative training.** [[PDF](https://aclanthology.org/2021.acl-long.273/)]\[[CODE](https://github.com/liam0949/DCLOOS)]
+- `DCL`[Zhan et al.]\[ACL 2021]**Out-of-scope intent detection with self-supervision and discriminative training** [[PDF](https://aclanthology.org/2021.acl-long.273/)]\[[CODE](https://github.com/liam0949/DCLOOS)]
+- `OOD-Text`[Arora et al.]\[EMNLP 2021]**Types of Out-of-Distribution Texts and How to Detect Them**[[PDF](https://aclanthology.org/2021.emnlp-main.835/)]\[[CODE](https://github.com/uditarora/ood-text-emnlp)]
 
 ## Audio
 
