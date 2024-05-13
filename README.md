@@ -34,7 +34,7 @@ A curated list of awesome out-of-distribution detection resources.
   - [Test Time Adaptive Approaches](#test-time-adaptive-approaches)
     * [Model update-needed](#model-update-needed)
     * [Model update-free](#model-update-free)
-- [LPM-based OOD Detection](#Large Pre-trained Model-based-OOD-Detection)
+- [LPM-based OOD Detection](#Large-Pre-trained-Model-based-OOD-Detection)
   - [Zero-shot OOD Detection Approaches](#zero-shot-ood-detection-approaches)
     - [Transitional work](#Transitional-work)
     - [DIffusion-based](#DIffusion-based)
