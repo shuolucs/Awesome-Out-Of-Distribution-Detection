@@ -16,10 +16,6 @@ A curated list of awesome Training-driven OOD detection resources. Your contribu
 
 ## Approaches with only ID Data
 
-下面这个是不确定分到哪类
-
-- `PALM`[Lu et al.]\[ICLR 2024]**LEARNING WITH MIXTURE OF PROTOTYPES FOR OUTOF-DISTRIBUTION DETECTION**[[PDF](https://openreview.net/forum?id=uNkKaD3MCs)]\[[CODE](https://github.com/jeff024/PALM)]
-
 ### Reconstruction-based
 
 - `MOOD` \[Li et al.][CVPR 2023]**Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need**[[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.html)]\[[CODE](https://github.com/lijingyao20010602/MOOD)]
