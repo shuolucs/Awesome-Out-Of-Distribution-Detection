@@ -17,7 +17,7 @@ A curated list of awesome out-of-distribution detection resources.
 
 # Contents
 
-- [Training-driven OOD Detection](#Training-driven OOD Detection)
+- [Training-driven OOD Detection](#Training-driven-OOD-Detection)
   - [Approaches with only ID Data](#approaches-with-only-id-data)
     * [Reconstruction-based](#reconstruction-based)
     * [Density-based](#density-based)
