@@ -35,18 +35,18 @@ A curated list of awesome out-of-distribution detection resources.
     * [Model update-needed](#model-update-needed)
     * [Model update-free](#model-update-free)
 - [LPM-based OOD Detection](#LPM-based-OOD-Detection)
-  - [Zero-shot OOD Detection Approaches](#zero-shot-ood-detection-approaches)
+  - [Zero-shot  Approaches](#zero-shot-approaches)
     - [Transitional work](#Transitional-work)
     - [DIffusion-based](#DIffusion-based)
     - [VLM-based](#VLM-based)
     - [LLM-based](#LLM-based)
     - [Zero-shot  ID detection](#Zero-shot-ID-detection)
-  - [Few-shot OOD Detection Approaches](#few-shot-ood-detection-approaches)
+  - [Few-shot Approaches](#few-shot-approaches)
     - [Study](#Study)
     - [Meta-learning-based](#Meta-learning-based)
     - [Fine-tuning-based](#Fine-tuning-based)
 
-  - [Full-shot OOD Detection Approaches](#full-shot-ood-detection-approaches)
+  - [Full-shot Approaches](#full-shot-approaches)
 - [Evaluation & Application](#Evaluation&Application)
   - [CV](#CV)
     - [Image Classification](#Image-Classification)
@@ -184,9 +184,9 @@ A curated list of awesome out-of-distribution detection resources.
 
 
 
-# LPM-based-OOD-Detection
+# LPM-based OOD Detection
 
-## Zero-shot OOD Detection Approaches
+## Zero-shot  Approaches
 
 ### **Transitional work**
 
@@ -225,7 +225,7 @@ A curated list of awesome out-of-distribution detection resources.
 
 - `GL-MCM`[Miyai et al.]\[arxiv 2023]**Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models**[[PDF](https://arxiv.org/abs/2304.04521)]\[[CODE](https://github.com/AtsuMiyai/GL-MCM)]
 
-## Few-shot OOD Detection Approaches
+## Few-shot Approaches
 
 ### Study
 
@@ -251,7 +251,7 @@ A curated list of awesome out-of-distribution detection resources.
 - `LoCoOp`[Miyai et al.]\[NeurIPS 2023]**LoCoOp:Few-Shot Out-of-Distribution Detection via Prompt Learning**[[PDF](https://openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp)]
 - `DSGF`[Dong et al.]\[arxiv 2023]**Towards Few-shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.12076)]
 
-## Full-shot OOD Detection Approaches
+## Full-shot  Approaches
 
 - `NPOS`[Tao et al.]\[ICLR 2023] **NON-PARAMETRIC OUTLIER SYNTHESIS**[[PDF](https://openreview.net/pdf?id=JHklpEZqduQ)]\[[CODE](https://github.com/deeplearning-wisc/npos)]
 
