@@ -75,12 +75,6 @@ A curated list of awesome Training-agnostic OOD detection resources. Your contri
 
 - `AdaOOD`[Zhang et al.]\[arxiv 2023]**Model-free Test Time Adaptation for Out-Of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.16420)]
 
-
-
-
-
-
-
  
 
  
