@@ -292,6 +292,8 @@ A curated list of awesome out-of-distribution detection resources.
 
 ### Fine-tuning-based
 
+- `GalLop`[Lafon et al.]\[arxiv 2024]**GalLoP: Learning Global and Local Prompts for Vision-Language Model**[[PDF](https://arxiv.org/pdf/2407.01400)]
+
 - `TagOOD` \[Li et al.][arXiv 2024]**Tagood: A novel approach to out-of-distribution detection via vision-language representations and class center learning**[[PDF](https://arxiv.org/abs/2408.15566)]
 
 - `CRoFT` \[Zhu et al.][ICML 2024]**Croft: Robust fine-tuning with concurrent optimization for ood generalization and open-set ood detection**[[PDF](https://arxiv.org/abs/2405.16417)]\[[CODE](https://github.com/LinLLLL/CRoFT)]
