@@ -6,15 +6,6 @@ A curated list of awesome out-of-distribution detection resources.
 
 ![outline](./Outline.jpg)
 
-# File Contents
-
-- [Training-driven OOD Detection](./OODD-Training-driven.md)
-- [Training-agnostic OOD Detection](./OODD-Training-agnostic.md)
-- [LPM-based OOD Detection](./OODD-LPM-based.md)
-- [Evaluation & Application](./Evaluation&Application.md)
-
-
-
 # Contents
 
 - [Training-driven OOD Detection](#Training-driven-OOD-Detection)
