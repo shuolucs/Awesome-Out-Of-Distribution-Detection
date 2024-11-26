@@ -242,6 +242,8 @@ A curated list of awesome out-of-distribution detection resources.
 
 #### CLIP-based
 
+- `AdaNeg`[Zhang et al.]\[NeurIPS 2024]**AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models**[[PDF](https://arxiv.org/abs/2410.20149)]\[[CODE](https://github.com/YBZh/OpenOOD-VLM)]
+
 - `CLIPScope`[Fu et al.]\[arxiv 2024]**CLIPScope: Enhancing Zero-Shot OOD Detection with Bayesian Scoring**[[PDF](https://arxiv.org/pdf/2405.14737)]
 - `LAPT`[Zhang et al.]\[arxiv 2024]**Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Model**[[PDF](https://arxiv.org/pdf/2407.08966)]
 
@@ -251,6 +253,12 @@ A curated list of awesome out-of-distribution detection resources.
 - `ZOC` [S'Esmaeilpour et al.]\[AAAI 2022]**Zero-Shot Out-of-Distribution Detection Based on the Pre-trained Model CLIP** [[PDF](https://arxiv.org/abs/2109.02748)]\[[CODE](https://github.com/sesmae/ZOC)]
 
 ### **LLM-based**
+
+- `COOD`[Liu et al.]\[arxiv 2024]**COOD: Concept-based Zero-shot OOD Detection**[[PDF](https://arxiv.org/abs/2411.13578)]
+
+- `CMA`[Lee et al.]\[arxiv 2024]**Reframing the Relationship in Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2405.16766)]
+
+- `ReGuide`[Lee et al.]\[arxiv 2024]**Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation**[[PDF](https://arxiv.org/abs/2410.14975)]
 
 - `...`[Salimben]\[arxiv 2024]**Beyond fine-tuning: LoRA modules boost near-OOD detection and LLM security**[[PDF](https://dlsp2024.ieee-security.org/papers/dls2024-final19.pdf)]
 
@@ -288,6 +296,10 @@ A curated list of awesome out-of-distribution detection resources.
 - `OOD-MAML`[Jeong et al.]\[NeurIPS 2020]**OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification**[[PDF](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)]\[[CODE](https://github.com/twj-KAIST/OOD-MAML)]
 
 ### Fine-tuning-based
+
+- `ECS`[Jung et al.]\[arxiv 2024]**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**[[PDF](https://arxiv.org/pdf/2405.16091)]
+
+- `SCT`[Yu et al.]\[NeurIPS 2024]**Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2411.03359)]\[[CODE](https://github.com/tmlr-group/SCT)]
 
 - `CLIP-OS`[Sun et al.]\[arxiv 2024]**CLIP-Driven Outliers Synthesis for Few-Shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/pdf/2404.00323)]
 - `GalLop`[Lafon et al.]\[arxiv 2024]**GalLoP: Learning Global and Local Prompts for Vision-Language Model**[[PDF](https://arxiv.org/pdf/2407.01400)]
