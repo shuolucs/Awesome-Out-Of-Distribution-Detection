@@ -398,10 +398,11 @@ A curated list of awesome out-of-distribution detection resources.
 - `DCL`[Zhan et al.]\[ACL 2021]**Out-of-scope intent detection with self-supervision and discriminative training** [[PDF](https://aclanthology.org/2021.acl-long.273/)]\[[CODE](https://github.com/liam0949/DCLOOS)]
 - `OOD-Text`[Arora et al.]\[EMNLP 2021]**Types of Out-of-Distribution Texts and How to Detect Them**[[PDF](https://aclanthology.org/2021.emnlp-main.835/)]\[[CODE](https://github.com/uditarora/ood-text-emnlp)]
 
-## Audio
+## Acoustic
 
 - `...`[Bukhsh et al.]\[arxiv 2022]**On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors**[[PDF](https://arxiv.org/pdf/2210.15283)]
-- `...`[Battaglino]\[IWAENC 2016]**THE OPEN-SET PROBLEM IN ACOUSTIC SCENE CLASSIFICATION**[[PDF](https://ieeexplore.ieee.org/abstract/document/7602939)]
+- `...`[Naranjo-Alcazar et al.]\[Sensors 2020]**Open Set Audio Classification Using Autoencoders Trained on Few Data**[[PDF](https://www.mdpi.com/1424-8220/20/13/3741)]
+- `...`[Battaglino]\[IWAENC 2016]**The Open-Set Problem in Acoustic Scene Classification**[[PDF](https://ieeexplore.ieee.org/abstract/document/7602939)]
 
 ## Graph data
 
