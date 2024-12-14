@@ -401,6 +401,7 @@ A curated list of awesome out-of-distribution detection resources.
 ## Audio
 
 - `...`[Bukhsh et al.]\[arxiv 2022]**On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors**[[PDF](https://arxiv.org/pdf/2210.15283)]
+- `...`[Battaglino]\[IWAENC 2016]**THE OPEN-SET PROBLEM IN ACOUSTIC SCENE CLASSIFICATION**[[PDF](https://ieeexplore.ieee.org/abstract/document/7602939)]
 
 ## Graph data
 
