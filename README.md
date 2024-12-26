@@ -242,6 +242,8 @@ A curated list of awesome out-of-distribution detection resources.
 
 #### CLIP-based
 
+- `SeTAR`[Li et al.]\[NeurIPS 2024]**SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation**[[PDF](https://arxiv.org/abs/2406.12629)]\[[https://github.com/X1AOX1A/SeTAR]]
+
 - `AdaNeg`[Zhang et al.]\[NeurIPS 2024]**AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models**[[PDF](https://arxiv.org/abs/2410.20149)]\[[CODE](https://github.com/YBZh/OpenOOD-VLM)]
 
 - `CLIPScope`[Fu et al.]\[arxiv 2024]**CLIPScope: Enhancing Zero-Shot OOD Detection with Bayesian Scoring**[[PDF](https://arxiv.org/pdf/2405.14737)]
@@ -369,6 +371,8 @@ A curated list of awesome out-of-distribution detection resources.
 - `...`[Mao et al.]\[arxiv 2024]**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**[[PDF](https://arxiv.org/pdf/2405.01691)]
 
 ### Human Action Recognition
+
+- `MultiOOD`[Dong et al.]\[NeurIPS 2024]**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**[[PDF](https://arxiv.org/abs/2405.17419)]\[[CODE](https://github.com/donghao51/MultiOOD)]
 
 - `...`[Sim et al.]\[ECAI 2023]**A Simple Debiasing Framework for Out-of-Distribution Detection in Human Action Recognition**[[PDF](https://ebooks.iospress.nl/doi/10.3233/FAIA230511)]\[[CODE](https://github.com/Simcs/attention-masking)]
 
