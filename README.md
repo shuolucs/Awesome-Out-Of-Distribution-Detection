@@ -57,7 +57,7 @@ A curated list of awesome out-of-distribution detection resources.
     - [Methods](#Methods)
   - [Audio](#Audio)
   - [Graph data](#Graph-data)
-    - [Sruvey](#Sruvey)
+    - [Survey](#Survey)
     - [Methods](#Methods)
   - [Reinforcement learning](#Reinforcement-learning)
 
