@@ -60,6 +60,7 @@ A curated list of awesome out-of-distribution detection resources.
     - [Survey](#Survey)
     - [Methods](#Methods)
   - [Reinforcement learning](#Reinforcement-learning)
+  - [Others](#Others)
 
 # Training-driven OOD Detection
 
@@ -382,6 +383,10 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ### Semantic Segmentation
 
+- `...`[ Shojaei et al.]\[ECCV 2024]**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**[[PDF](http://arxiv.org/abs/2410.08687)]
+
+- `DOoD`[ Galesso et al.]\[ECCV 2024]**Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**[[PDF](/https://arxiv.org/abs/2407.15739)]\[[CODE](https://github.com/lmb-freiburg/diffusion-for-ood)]
+
 - `...`[ Ancha et al.]\[ICRA 2024]**Deep Evidential Uncertainty Estimation for Semantic Segmentation under OOD Obstacles**[[PDF](https://siddancha.github.io/projects/evidential-segmentation-uncertainty/)]\[[CODE](https://siddancha.github.io/projects/evidential-segmentation-uncertainty/)]
 
 - `ATTA`[Gao et al.]\[NeurIPS 2023]**ATTA: Anomaly-aware Test-Time Adaptation for Out-of-Distribution Detection in Segmentation**[[PDF](https://openreview.net/forum?id=bGcdjXrU2w&referrer=%5Bthe%20profile%20of%20Shipeng%20Yan%5D(%2Fprofile%3Fid%3D~Shipeng_Yan1))]\[[CODE](https://github.com/gaozhitong/ATTA)]
@@ -394,15 +399,27 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ### Object Detection
 
+- ` mmood3d`[Kösel et al.]\[IV 2024]**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**[[PDF](https://arxiv.org/abs/2404.15879)]\[[CODE](https://github.com/uulm-mrm/mmood3d)]
+
+- ` Proto-OOD`[Chen et al.]\[arxiv 2024]**Proto-OOD: Enhancing OOD Object Detection with Prototype Feature Similarity**[[PDF](https://arxiv.org/abs/2409.05466)]
+
+- `Situation Monitor`[Syed et al.]\[CVPR 2024]**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**[[PDF](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/papers/Qutub_Situation_Monitor_Diversity-Driven_Zero-Shot_Out-of-Distribution_Detection_using_Budding_Ensemble_Architecture_CVPRW_2024_paper.pdf)]
+
 - `RONIN`[Nguyen et al.]\[arxiv 2024]**Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting**[[PDF](https://arxiv.org/abs/2402.03292)]
 - `SAFE`[Wilson et al.]\[CVPR 2023]**SAFE: Sensitivity-aware Features for Out-of-distribution Object Detection**[[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wilson_SAFE_Sensitivity-Aware_Features_for_Out-of-Distribution_Object_Detection_ICCV_2023_paper.pdf)]
 - `SIREN`[Du et al.]\[NuerIPS 2022]**SIREN: Shaping Representations for Detecting Out-of-Distribution Objects**[[PDF](https://openreview.net/forum?id=8E8tgnYlmN)]\[[CODE](https://github.com/deeplearning-wisc/siren)]
 
 ### Autonomous Driving
 
-- `...`[Mao et al.]\[arxiv 2024]**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**[[PDF](https://arxiv.org/pdf/2405.01691)]
+- `...`[Guo et al.]\[arxiv 2024]**Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles**[[PDF](https://arxiv.org/abs/2409.17277)]
 
-### Human Action Recognition
+- `...`[Mao et al.]\[ICRA 2024]**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**[[PDF](https://arxiv.org/pdf/2405.01691)]
+
+### **More**
+
+- `Open-Set-FER`[Zhang et al.]\[AAAI 2024]**Open-Set Facial Expression Recognition**[[PDF](https://arxiv.org/abs/2401.12507)]/[[CODE](https://github.com/zyh-uaiaaaa/Open-Set-FER)]
+
+- `FOOD`[Kahya et al.]\[ICIP 2024]**FOOD: Facial Authentication and Out-of-Distribution Detection with Short-Range FMCW Radar**[[PDF](https://arxiv.org/abs/2406.04546)]
 
 - `MultiOOD`[Dong et al.]\[NeurIPS 2024]**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**[[PDF](https://arxiv.org/abs/2405.17419)]\[[CODE](https://github.com/donghao51/MultiOOD)]
 
@@ -415,6 +432,11 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ### Medical Image Analysis
 
+- `OpenMIBOOD`[Gutbrod et al.]\[arxiv 2025]**OpenMIBOOD： Open Medical Imaging Benchmarks for Out-Of-Distribution Detection**[[PDF](https://arxiv.org/abs/2503.16247)]\[[CODE](https://github.com/remic-othr/OpenMIBOOD)]
+- `...`[Liu et al.]\[MICCAI 2024]**Mitral Regurgitation Recognition based on Unsupervised Out-of-Distribution Detection with Residual Diffusion Amplification**[[PDF](https://arxiv.org/abs/2407.21497)]
+
+- `...`[Oh et al.]\[arxiv 2024]**Are We Ready for Out-of-Distribution Detection in Digital Pathology**[[PDF](https://arxiv.org/abs/2407.13708)]
+
 - `EndoOOD`[Tan et al.]\[arxiv 2024]**EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis**[[PDF](https://arxiv.org/abs/2402.11476)]
 - `...`[Chen et al.]\[ICASSP 2024]**Out-of-Distribution Detection for Learning-Based Chest X-Ray Diagnosis**[[PDF](https://ieeexplore.ieee.org/abstract/document/10447414)]
 
@@ -422,10 +444,18 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 #### Survey
 
+- `...`[Liu et al.]\[arxiv 2025]**A Survey on Transformer Context Extension: Approaches and Evaluation**[[PDF](https://arxiv.org/abs/2503.13299)]
 - `...`[Xu et al.]\[arxiv 2024]**Large Language Models for Anomaly and Out-of-Distribution Detection:A Survey**[[PDF](https://arxiv.org/pdf/2409.01980)]
 - `...`[Lang et al.]\[TMLR 2023]**A Survey on Out-of-Distribution Detection in NLP**[[PDF](https://arxiv.org/abs/2305.03236)]
 
 #### Methods
+
+- `AHM` \[Constantinou et al.][arxiv 2024]**Out-of-Distribution Detection with Attention Head Masking for Multimodal Document Classification**[[PDF](https://arxiv.org/abs/2408.11237)]
+
+- `TV score` \[Wang et al.][NeurIPS 2024]**Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning**[[PDF](https://openreview.net/forum?id=hYMxyeyEc5&noteId=lcgt2MxZFl)]
+
+- `LLMOODratio` \[Xhang et al.][arxiv 2024]**Your Finetuned Large Language Model is Already a Powerful Out-of-distribution Detector**[[PDF](https://arxiv.org/abs/2404.08679)]\[[CODE](https://github.com/andiac/LLMOODratio)]
+- `VI-OOD` \[Zhan et al.][COLING 2024]**VI-OOD A Unified Representation Learning Framework for Textual Out-of-distribution Detection**[[PDF](https://aclanthology.org/2024.lrec-main.1510/)]\[[CODE](https://github.com/liam0949/LLM-OOD)]
 
 - `MILTOOD` \[Darrin et al.][AAAI 2024]**Unsupervised Layer-Wise Score Aggregation for Textual OOD Detection**[[PDF](https://arxiv.org/abs/2302.09852)]
 - `VI-OOD`[Zhan et al.]\[arxiv 2024]**VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection**[[PDF](https://arxiv.org/pdf/2404.06217.pdf)][[CODE](https://github.com/liam0949/LLM-OOD)]
@@ -436,26 +466,54 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ## Acoustic
 
+- `...`[Wen et al.]\[BMVC 2024]**Out-Of-Distribution Detection for Audio-visual Generalized Zero-Shot Learning A General Framework**[[PDF](https://www.arxiv.org/abs/2408.01284)]\[[CODE](https://github.com/liuyuan-wen/AV-OOD-GZSL)]
+
+- `MEJEM`[Hao et al.]\[arxiv 2024]**Exploring Energy-Based Models for Out-of-Distribution Detection in Dialect Identification**[[PDF](https://arxiv.org/abs/2406.18067)]
+
+- `...`[Du et al.]\[arxiv 2024]**Towards Out-of-Distribution Detection in Vocoder Recognition via Latent Feature Reconstruction**[[PDF](https://arxiv.org/abs/2406.02233)]
+
 - `...`[Bukhsh et al.]\[arxiv 2022]**On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors**[[PDF](https://arxiv.org/pdf/2210.15283)]
 - `...`[Naranjo-Alcazar et al.]\[Sensors 2020]**Open Set Audio Classification Using Autoencoders Trained on Few Data**[[PDF](https://www.mdpi.com/1424-8220/20/13/3741)]
 - `...`[Battaglino]\[IWAENC 2016]**The Open-Set Problem in Acoustic Scene Classification**[[PDF](https://ieeexplore.ieee.org/abstract/document/7602939)]
 
 ## Graph data
 
-#### Sruvey
+#### Sruvey & Benchmark
+
+- `...`[Cai et al.]\[arxiv 2025]**Out-of-Distribution Detection on Graphs A Survey**[[PDF](https://www.arxiv.org/abs/2502.08105)]
+
+- `UB-GOLD`[Wang et al.]\[ICLR 2025]**Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection A Benchmark**[[PDF](https://openreview.net/forum?id=g90RNzs8wX)]
 
 - `...`[Ju et al.]\[arxiv 2024]**A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges**[[PDF](https://arxiv.org/abs/2403.04468)]
 
 #### Methods
+
+- `LLM-GOOD`[Xu et al.]\[arxiv 2025]**Few-Shot Graph Out-of-Distribution Detection with LLMs**[[PDF](https://arxiv.org/abs/2503.22097)]
+
+- `GOLD`[Wang et al.]\[ICLR 2025]**GOLD Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation**[[PDF](https://openreview.net/forum?id=y5einmJ0Yx)]
+- `SEGO`[Hou et al.]\[AAAI 2024]**Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection**[[PDF](https://arxiv.org/abs/2503.03241)]
+
+- `HGOE`[He et al.]\[ACMMM 2024]**HGOE Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2407.21742)]
+
+- `GR-MOOD`[Shen et al.]\[arxiv 2024]**Optimizing OOD Detection in Molecular Graphs A Novel Approach with Diffusion Models**[[PDF](https://arxiv.org/abs/2404.15625)]
 
 - `GOODAT`[Wang et al.]\[AAAI 2024]**Towards Test-time Graph Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2401.06176)]
 - `GOOD-D`[Liu et al.]\[WSDM 2023]**GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection**[[PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570446)]\[[CODE](https://github.com/yixinliu233/G-OOD-D)]
 
 ## Reinforcement learning
 
-- `DEXTER`[Nasvytis et al.]/[arxiv 2024]**Rethinking Out-of-Distribution Detection for Reinforcement**[[PDF](https://arxiv.org/pdf/2404.07099.pdf)]
+- `DEXTER`[Nasvytis et al.] [arxiv 2024]**Rethinking Out-of-Distribution Detection for Reinforcement**[[PDF](https://arxiv.org/pdf/2404.07099.pdf)]
   **Learning: Advancing Methods for Evaluation and Detection**
 - `AlberDICE`[Matsunaga et al.]\[NuerIPS 2023]**AlberDICE: Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation**[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5b6eb1dbabff82838d5e99f62de37c8-Abstract-Conference.html)]
+
+## Others
+
+- `SecDOOD`[Li et al.]\[arxiv 2025]**Secure On-Device Video OOD Detection Without Backpropagation**[[PDF](https://arxiv.org/abs/2503.06166)]
+
+- `TS-OOD`[Gungor et al.]\[arxiv 2025]**TS-OOD: Evaluating Time-Series Out-of-Distribution Detection and Prospective Directions for Progress**[[PDF](https://arxiv.org/abs/2502.15901)]
+- `...`[Impiö et al.]\[EUSIPCO 2024]**Improving Taxonomic Image-based Out-of-distribution Detection With DNA Barcodes**[[PDF](https://arxiv.org/abs/2406.18999)]
+- `...`[Terres-Escudero et al.]\[arxiv 2024]**Forward-Forward Learning achieves Highly Selective Latent Representations for Out-of-Distribution Detection in Fully Spiking Neural Networks**[[PDF](https://arxiv.org/html/2407.14097v2)]
+- `...`[Zhou et al.]\[NeurIPSw 2024]**Evaluating Sparse Galaxy Simulations via Out-of-Distribution Detection and Amortized Bayesian Model **[[PDF](https://arxiv.org/abs/2410.10606)]
 
 ## Survey
 
