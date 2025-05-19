@@ -332,10 +332,8 @@ A curated list of awesome out-of-distribution detection resources.
 - `GalLoP` [Lafon et al.]\[arXiv 2024] **GalLoP: Learning Global and Local Prompts for Vision-Language Models**[[PDF](https://arxiv.org/pdf/2407.01400)]
 - `Local-Prompt` [Li et al.]\[ICLR 2025]**Local-Prompt: Extensible Local Prompts for Few-Shot Out-of-Distribution Detection**[[PDF](https://openreview.net/forum?id=nanyAujl6e)]
 - `SCT` [Yu et al.]\[NeurIPS 2024]**Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2411.03359)]\[[CODE](https://github.com/tmlr-group/SCT)]
-- `CRoFT` [Zhu et al.]\[ICML 2024]**Croft: Robust fine-tuning with concurrent optimization for ood generalization and open-set ood detection**[[PDF](https://arxiv.org/abs/2405.16417)]\[[CODE](https://github.com/LinLLLL/CRoFT)]
 - `LSN` [Nie et al.]\[ICLR 2024]**Out-of-Distribution Detection with Negative Prompts**[[PDF](https://openreview.net/forum?id=nanyAujl6e)]
 - `ID-like` [Bai et al.]\[CVPR 2024]**ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.15243)]
-
 - `DSGF` [Dong et al.]\[arXiv 2023]**Towards Few-shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.12076)]
 - `LoCoOp`[Miyai et al.]\[NeurIPS 2023]**LoCoOp:Few-Shot Out-of-Distribution Detection via Prompt Learning**[[PDF](https://
 openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp)]
