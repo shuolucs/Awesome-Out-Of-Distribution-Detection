@@ -326,28 +326,15 @@ A curated list of awesome out-of-distribution detection resources.
 ### Fine-tuning-based
 
 - `SUPREME` [Wang et al.]\[arXiv 2025]**Mitigating the Modality Gap: Few-Shot Out-of-Distribution Detection with Multi-modal Prototypes and Image-Text Consistency**[[PDF](https://arxiv.org/abs/2502.00662)]
-
 - `GaCoOp` [Tong et al.]\[arXiv 2024]**Enhancing Few-Shot Out-of-Distribution Detection with Gradient Aligned Context Optimization**[[PDF](https://arxiv.org/abs/2411.15736)]
-
 - `CLIP-OS` [Sun et al.]\[arXiv 2024]**CLIP-Driven Outliers Synthesis for Few-Shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/pdf/2404.00323)]
-
-- `NegPrompt` [Li et al.]\[CVPR 2024]**Learning Transferable Negative Prompts for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2404.03248)]\[[CODE](https://github.com/mala-lab/negprompt)]
-
-- `GalLoP` [Lafon et al.]\[arXiv 2024]**GalLoP: Learning Global and Local Prompts for Vision-Language Models**[[PDF](https://arxiv.org/pdf/2407.01400)]
-
-- `Local-Prompt` [Li et al.]\[ICLR 2024]**Local-Prompt: Extensible Local Prompts for Few-Shot Out-of-Distribution Detection**[[PDF](https://openreview.net/forum?id=nanyAujl6e)]
-
+- `NegPrompt` [Li et al.]\[CVPR 2024] **Learning Transferable Negative Prompts for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2404.03248)]\[[CODE](https://github.com/mala-lab/negprompt)]
+- `GalLoP` [Lafon et al.]\[arXiv 2024] **GalLoP: Learning Global and Local Prompts for Vision-Language Models**[[PDF](https://arxiv.org/pdf/2407.01400)]
+- `Local-Prompt` [Li et al.]\[ICLR 2025]**Local-Prompt: Extensible Local Prompts for Few-Shot Out-of-Distribution Detection**[[PDF](https://openreview.net/forum?id=nanyAujl6e)]
 - `SCT` [Yu et al.]\[NeurIPS 2024]**Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2411.03359)]\[[CODE](https://github.com/tmlr-group/SCT)]
-
 - `CRoFT` [Zhu et al.]\[ICML 2024]**Croft: Robust fine-tuning with concurrent optimization for ood generalization and open-set ood detection**[[PDF](https://arxiv.org/abs/2405.16417)]\[[CODE](https://github.com/LinLLLL/CRoFT)]
-
-- `EOK-Prompt` [Zeng et al.]\[arXiv 2024]**ENHANCING OUTLIER KNOWLEDGE FOR FEW-SHOT OUT-OF-DISTRIBUTION DETECTION WITH EXTENSIBLE LOCAL PROMPTS**[[PDF](https://arxiv.org/abs/2409.04796)]
-
 - `LSN` [Nie et al.]\[ICLR 2024]**Out-of-Distribution Detection with Negative Prompts**[[PDF](https://openreview.net/forum?id=nanyAujl6e)]
-
 - `ID-like` [Bai et al.]\[CVPR 2024]**ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.15243)]
-
-
 
 - `DSGF` [Dong et al.]\[arXiv 2023]**Towards Few-shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2311.12076)]
 - `LoCoOp`[Miyai et al.]\[NeurIPS 2023]**LoCoOp:Few-Shot Out-of-Distribution Detection via Prompt Learning**[[PDF](https://
@@ -361,7 +348,7 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 - `NPOS`[Tao et al.]\[ICLR 2023] **NON-PARAMETRIC OUTLIER SYNTHESIS**[[PDF](https://openreview.net/pdf?id=JHklpEZqduQ)]\[[CODE](https://github.com/deeplearning-wisc/npos)]
 - `TOE` [Park et al.]\[NeurIPS 2023]**On the Powerfulness of Textual Outlier Exposure for Visual OoD Detection**[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2374637af47ac9471b43c99b68acf27-Paper-Conference.pdf)]\[[CODE](https://github.com/wiarae/TOE)]
 
-- `PT-OOD`[Miyai et al.]\[arxiv 2023]**CAN PRE-TRAINED NETWORKS DETECT FAMILIAR OUT-OF-DISTRIBUTION DATA?**[[PDF](https://arxiv.org/pdf/2310.00847.pdf)]\[[CODE](https://github.com/AtsuMiyai/PT-OOD)]
+- `PT-OOD` [Miyai et al.]\[arxiv 2023]**CAN PRE-TRAINED NETWORKS DETECT FAMILIAR OUT-OF-DISTRIBUTION DATA?**[[PDF](https://arxiv.org/pdf/2310.00847.pdf)]\[[CODE](https://github.com/AtsuMiyai/PT-OOD)]
 
   
 
