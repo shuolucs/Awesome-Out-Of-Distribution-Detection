@@ -463,7 +463,7 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ## Graph data
 
-#### Sruvey & Benchmark
+#### Survey & Benchmark
 
 - `...`[Cai et al.]\[arxiv 2025]**Out-of-Distribution Detection on Graphs A Survey**[[PDF](https://www.arxiv.org/abs/2502.08105)]
 
