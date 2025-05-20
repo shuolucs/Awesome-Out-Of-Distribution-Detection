@@ -269,7 +269,7 @@ A curated list of awesome out-of-distribution detection resources.
 
 #### CLIP-based
 - `OT-DETECTOR` [Liu et al.]\[arXiv 2025]**OT-DETECTOR: Delving into Optimal Transport for Zero-shot Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2503.06442)]
-- `SimLabel` [Zhang et al.]\[ICLR 2025]**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**[[PDF](https://openreview.net/forum?id=Aw1w5sL6ru)]
+- `...` [Zhang et al.]\[ICLR 2025]**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**[[PDF](https://openreview.net/forum?id=Aw1w5sL6ru)]
 - `LAPT` [Zhang et al.]\[ECCV 2024]**Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models**[[PDF](https://arxiv.org/abs/2407.089666)]
 - `OLE` [Ding et al.]\[IJCNN 2024]**Zero-shot out-of-distribution detection with outlier label exposure**[[PDF](https://arxiv.org/pdf/2406.01170)]
 - `...` [Jung et al.]\[arxiv 2024]**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**[[PDF](https://arxiv.org/pdf/2405.16091)]
