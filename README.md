@@ -292,6 +292,8 @@ A curated list of awesome out-of-distribution detection resources.
 
 - `ReGuide`[Lee et al.]\[arxiv 2024]**Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation**[[PDF](https://openreview.net/forum?id=Jk8QwQw8Qw)]
 
+- `SimLabel`[Zou et al.]\[arxiv 2024]**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**[[PDF](https://openreview.net/forum?id=Aw1w5sL6ru)]
+
 - `...`[Salimben]\[arxiv 2024]**Beyond fine-tuning: LoRA modules boost near-OOD detection and LLM security**[[PDF](https://dlsp2024.ieee-security.org/papers/dls2024-final19.pdf)]
 
 - `VI-OOD`[Zhan et al.]\[arxiv 2024]**VI-OOD: A Unified Representation Learning Framework for Textual**[[PDF](https://arxiv.org/pdf/2404.06217.pdf)]\[[CODE](https://github.com/liam0949/LLM-OOD)]
