@@ -97,7 +97,9 @@ A curated list of awesome out-of-distribution detection resources.
 
 ### OOD Synthesis
 
-
+- `POP` [Gong et al.]\[AAAI 2025]**Out-of-Distribution Detection with Prototypical Outlier Proxy**[[PDF](https://arxiv.org/pdf/2412.16884)][[CODE](https://github.com/gmr523/pop)]
+- `HamOS` [Li et al.]\[ICLR 2025]**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**[[PDF](https://arxiv.org/pdf/2501.16718)][[CODE](https://github.com/Fir-lat/HamOS_OOD)]
+- `Forte` [Ganguly et al.]\[[ICLR 2025]**Forte: Finding Outliers with Representation Typicality Estimation**[[PDF](https://arxiv.org/abs/2410.01322)]
 - `FodFoM` [Chen et al.]\[MM 2024]**Fake Outlier Data by Foundation Models Creates Stronger Visual Out-of-Distribution Detector**[[PDF](https://openreview.net/forum?id=iWSVl6mLbW&noteId=iWSVl6mLbW)]
 - `ASCOOD` [Regmi et al.]\[arXiv 2024]**Going Beyond Conventional OOD Detection**[[PDF](https://arxiv.org/abs/2411.10794)]
 - `OAL` [Gao et al.]\[arXiv 2024]**Enhancing OOD Detection Using Latent Diffusion**[[PDF](https://arxiv.org/abs/2406.16525)]
@@ -115,7 +117,8 @@ A curated list of awesome out-of-distribution detection resources.
 
 
 ### Prototype-based
-
+- `PFS` [Wu et al.]\[ICLR 2025]**Pursuing feature separation based on neural collapse for out-of-distribution detection**[[PDF](https://arxiv.org/abs/2405.17816)][[CODE](https://github.com/Wuyingwen/Pursuing-Feature-Separation-for-OOD-Detection)]
+- `AROS` [Mirzaei et al.]\[ICLR 2025]**Adversarially robust out-of-distribution detection using lyapunov-stabilized embeddings**[[PDF](https://arxiv.org/abs/2410.10744)][[CODE](https://github.com/AdaptiveMotorControlLab/AROS)]
 - `PB&J` [Sit et al.]\[arXiv 2024]**Improving Explainability of Softmax Classifiers Using a Prototype-Based Joint Embedding Method**[[PDF](https://arxiv.org/abs/2407.02271)]
 - `PALM` \[Lu et al.]\[ICLR 2024]**Learning with mixture of prototypes for out-of-distribution detection**[[PDF](https://arxiv.org/abs/2402.02653)]\[[CODE](https://github.com/jeff024/PALM)]
 - `ReweightOOD` \[Regmi et al.]\[CVPR 2024]**Reweightood: Loss reweighting for distance-based ood detection**[[PDF](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Regmi_ReweightOOD_Loss_Reweighting_for_Distance-based_OOD_Detection_CVPRW_2024_paper.pdf)]
@@ -199,6 +202,10 @@ A curated list of awesome out-of-distribution detection resources.
 
 ### Feature-based
 
+- `NCI` [Liu et al.]\[CVPR 2025]**Detecting out-of-distribution through the lens of neural collapse**[[PDF](https://arxiv.org/abs/2311.01479)][[CODE](https://github.com/litianliu/NCI-OOD)]
+- `CADRef` [Ling et al.]\[CVPR 2025]**CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging**[[PDF](https://arxiv.org/abs/2503.00325)]
+- `KANs` [Canevaro et al.]\[ICLR 2025]**Advancing Out-of-Distribution Detection via Local Neuroplasticity**[[PDF](https://arxiv.org/pdf/2502.15833)]
+- `ITP` [Xu et al.]\[AAAI 2025]**ITP: Instance-aware test pruning for out-of-distribution detection**[[PDF](https://arxiv.org/abs/2412.12566)]
 - `WeiPer` [Granz et al.]\[NeurIPS 2024]**WeiPer: OOD Detection using Weight Perturbations of Class Projections**[[PDF](https://openreview.net/forum?id=8HeUvbImKT&referrer=%5Bthe%20profile%20of%20Manuel%20Heurich%5D(%2Fprofile%3Fid%3D~Manuel_Heurich1)5)]
 - `CEA` [Azizmalayeri et al.]\[UAI 2024]**Mitigating Overconfidence in Out-of-Distribution Detection by Capturing Extreme Activations**[[PDF](https://openreview.net/forum?id=nwf2mKQVhP)]
 - `NAC` \[Liu et al.]\[ICLR 2024]**Neuron activation coverage: Rethinking out-of-distribution detection and generalization**[[PDF](https://arxiv.org/abs/2306.02879)]\[[CODE](https://github.com/BierOne/ood_coverage)]
@@ -241,6 +248,7 @@ A curated list of awesome out-of-distribution detection resources.
 
 ### Model update-free
 
+- `OODD` [Yang et al.]\[CVPR 2025]**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**[[PDF](https://arxiv.org/abs/2503.10468)][[CODE](https://github.com/zxk1212/OODD)]
 - `RTL`\[Fan et al.]\[CVPR 2024]**Test-time linear out-of-distribution detection**[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Test-Time_Linear_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)]\[[CODE](https://github.com/kfan21/RTL)]
 
 - `ETLT`[Fan et al.]\[arxiv 2023/CVPR 2024]**A Simple Test-Time Method for Out-of-Distribution Detection**[[PDF](https://arxiv.org/abs/2207.08210)]
