@@ -1,6 +1,25 @@
 # Awesome Out-of-distribution Detection[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)![](https://img.shields.io/badge/Status-building-brightgreen) 
 
-A curated list of awesome out-of-distribution detection resources. 
+
+> A curated list of awesome out-of-distribution detection resources. 
+>
+> The organization of papers refers to our survey [**"Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances"**](https://arxiv.org/abs/2409.11884). [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://huggingface.co/papers/2303.18223)
+>
+> Please let us know if you find out a mistake or have any suggestions by e-mail: shulucs@gmail.com
+>
+
+```
+@article{lu2024recent,
+  title={Recent Advances in OOD Detection: Problems and Approaches},
+  author={Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and Zheng, Aihua and He, Lingxiao and Liang, Jian},
+  journal={arXiv preprint arXiv:2409.11884},
+  year={2024}
+}
+```
+
+![logo](./logo.jpg)
+
+
 
 # Outline
 
@@ -511,6 +530,17 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 ## Survey
 
 - `VLM Survey` [Zhang et al.]\[IJCV 2024]**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**[[PDF](https://arxiv.org/abs/2405.67890)]
+
 - `LLM Survey` [Xu et al.]\[ACL 2024]**Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey**[[PDF](https://arxiv.org/abs/2409.01980)]
+
+- `...` [Yang et al.]\[IJCV 2024]**Generalized out-of-distribution detection: A survey**[[PDF](https://arxiv.org/abs/2110.11334)]
+
+- `...` [Lang et al.]\[TMLR 2023]**A Survey on Out-of-Distribution Detection in NLP**[[PDF](https://arxiv.org/abs/2305.03236)]
+
+- `...` [Salehi et al.]\[TMLR 2022]**A unified survey on anomaly, novelty, open-set, and out-of-distribution detection: Solutions and future challenges**[[PDF](https://arxiv.org/abs/2110.14051)]
+
+- `...` [Cui et al.]\[Electronics 2022]**Out-of-distribution (OOD) detection based on deep learning: A review**[[PDF](https://www.mdpi.com/2079-9292/11/21/3500)]
+
+  
 
  
