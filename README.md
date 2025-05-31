@@ -7,6 +7,7 @@
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail: shulucs@gmail.com
 >
+> If you find our survey useful for your research, please cite the following paper:
 
 ```
 @article{lu2024recent,
