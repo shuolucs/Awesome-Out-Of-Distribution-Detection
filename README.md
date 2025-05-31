@@ -17,13 +17,13 @@
 }
 ```
 
-![logo](./logo.jpg)
+![logo](assets/logo.jpg)
 
 
 
 # Outline
 
-![outline](./Outline.jpg)
+###### ![Outline](assets/Outline.jpg)
 
 # Contents
 
