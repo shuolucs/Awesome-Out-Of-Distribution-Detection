@@ -18,10 +18,6 @@
 }
 ```
 
-![logo](assets/logo.jpg)
-
-
-
 # Outline
 
 ###### ![Outline](assets/Outline.jpg)
