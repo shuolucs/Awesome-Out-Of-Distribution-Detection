@@ -418,26 +418,15 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 - `SAFE`[Wilson et al.]\[CVPR 2023]**SAFE: Sensitivity-aware Features for Out-of-distribution Object Detection**[[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wilson_SAFE_Sensitivity-Aware_Features_for_Out-of-Distribution_Object_Detection_ICCV_2023_paper.pdf)]
 - `SIREN`[Du et al.]\[NuerIPS 2022]**SIREN: Shaping Representations for Detecting Out-of-Distribution Objects**[[PDF](https://openreview.net/forum?id=8E8tgnYlmN)]\[[CODE](https://github.com/deeplearning-wisc/siren)]
 
+### 3D Object Detection
+
+- `...`[Kösel et al.]\[arxiv 2024]**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**[[PDF](https://arxiv.org/abs/2404.15879)]
+
 ### Autonomous Driving
 
 - `...`[Guo et al.]\[arxiv 2024]**Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles**[[PDF](https://arxiv.org/abs/2409.17277)]
 
 - `...`[Mao et al.]\[ICRA 2024]**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**[[PDF](https://arxiv.org/pdf/2405.01691)]
-
-### **More**
-
-- `Open-Set-FER`[Zhang et al.]\[AAAI 2024]**Open-Set Facial Expression Recognition**[[PDF](https://arxiv.org/abs/2401.12507)]/[[CODE](https://github.com/zyh-uaiaaaa/Open-Set-FER)]
-
-- `FOOD`[Kahya et al.]\[ICIP 2024]**FOOD: Facial Authentication and Out-of-Distribution Detection with Short-Range FMCW Radar**[[PDF](https://arxiv.org/abs/2406.04546)]
-
-- `MultiOOD`[Dong et al.]\[NeurIPS 2024]**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**[[PDF](https://arxiv.org/abs/2405.17419)]\[[CODE](https://github.com/donghao51/MultiOOD)]
-
-- `...`[Sim et al.]\[ECAI 2023]**A Simple Debiasing Framework for Out-of-Distribution Detection in Human Action Recognition**[[PDF](https://ebooks.iospress.nl/doi/10.3233/FAIA230511)]\[[CODE](https://github.com/Simcs/attention-masking)]
-
-### Solar Image Analysis
-
-- `...`[Giger et al.]\[Space Weather 2023]**Unsupervised Anomaly Detection With Variational Autoencoders Applied to Full-Disk Solar Images** [[PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023SW003516)]
-- `...`[Dan et al.]\[ACM Trans. Cyber-Phys. Syst 2024]**Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision**[[PDF](https://dl.acm.org/doi/pdf/10.1145/3651224)]
 
 ### Medical Image Analysis
 
@@ -449,9 +438,34 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 - `EndoOOD`[Tan et al.]\[arxiv 2024]**EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis**[[PDF](https://arxiv.org/abs/2402.11476)]
 - `...`[Chen et al.]\[ICASSP 2024]**Out-of-Distribution Detection for Learning-Based Chest X-Ray Diagnosis**[[PDF](https://ieeexplore.ieee.org/abstract/document/10447414)]
 
+### **Human Action Recognition**
+
+- `Skeleton-OOD`[Xu et al.]\[arxiv 2024]**Skeleton-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**[[PDF](https://arxiv.org/abs/2405.20633)]
+
+- `...`[Sim et al.]\[ECAI 2023]**A Simple Debiasing Framework for Out-of-Distribution Detection in Human Action Recognition**[[PDF](https://ecai2023.eu/acceptedpapers)]\[[CODE](https://github.com/Simcs/attention-masking)]
+
+- `...`[Mandal et al.]\[CVPR 2019]**Out-of-distribution detection for generalized zero-shot action recognition**[[PDF](https://arxiv.org/abs/1904.08703)]
+
+### Solar Image Analysis
+
+- `...`[Giger et al.]\[Space Weather 2023]**Unsupervised Anomaly Detection With Variational Autoencoders Applied to Full-Disk Solar Images** [[PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023SW003516)]
+- `...`[Dan et al.]\[ACM Trans. Cyber-Phys. Syst 2024]**Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision**[[PDF](https://dl.acm.org/doi/pdf/10.1145/3651224)]
+
+### Facial Expression Recognition
+
+- `Open-Set-FER`[Zhang et al.]\[AAAI 2024]**Open-Set Facial Expression Recognition**[[PDF](https://arxiv.org/abs/2401.12507)]/[[CODE](https://github.com/zyh-uaiaaaa/Open-Set-FER)]
+
+### Facial Authentication
+
+- `FOOD`[Kahya et al.]\[ICIP 2024]**FOOD: Facial Authentication and Out-of-Distribution Detection with Short-Range FMCW Radar**[[PDF](https://arxiv.org/abs/2406.04546)]
+
+### Earth Observation Imagery
+
+- `...`[Bellier et al.]\[CVPRw 2024]**Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models**
+
 ## NLP
 
-#### Survey
+### Survey
 
 - `...`[Liu et al.]\[arxiv 2025]**A Survey on Transformer Context Extension: Approaches and Evaluation**[[PDF](https://arxiv.org/abs/2503.13299)]
 - `...`[Xu et al.]\[arxiv 2024]**Large Language Models for Anomaly and Out-of-Distribution Detection:A Survey**[[PDF](https://arxiv.org/pdf/2409.01980)]
