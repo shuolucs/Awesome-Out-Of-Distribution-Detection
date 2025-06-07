@@ -473,6 +473,8 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 #### Methods
 
+- `...`[Akbari et al.]\[ICWR 2025]**A Hybrid Architecture for Out of Domain Intent Detection and Intent Discovery**[[PDF]\(https://ieeexplore.ieee.org/abstract/document/11006168)]
+
 - `AHM` \[Constantinou et al.]\[arxiv 2024]**Out-of-Distribution Detection with Attention Head Masking for Multimodal Document Classification**[[PDF](https://arxiv.org/abs/2408.11237)]
 
 - `TV score` \[Wang et al.]\[NeurIPS 2024]**Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning**[[PDF](https://openreview.net/forum?id=hYMxyeyEc5&noteId=lcgt2MxZFl)]
