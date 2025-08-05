@@ -18,6 +18,9 @@
 }
 ```
 
+## 🔥 News
+- **8 Aug, 2025**: [Our survey](https://arxiv.org/pdf/2410.20149) is accepted to ACM Computing Surveys (CSUR) 2025!
+
 # Outline
 
 ###### ![Outline](assets/Outline.jpg)
