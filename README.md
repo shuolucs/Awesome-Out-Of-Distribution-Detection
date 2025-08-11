@@ -10,11 +10,15 @@
 > If you find our survey useful for your research, please cite the following paper:
 
 ```
-@article{lu2024recent,
-  title={Recent Advances in OOD Detection: Problems and Approaches},
-  author={Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and Zheng, Aihua and He, Lingxiao and Liang, Jian},
-  journal={arXiv preprint arXiv:2409.11884},
-  year={2024}
+@article{10.1145/3760390,
+author = {Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and He, Lingxiao and Zheng, Aihua and Liang, Jian},
+title = {Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3760390},
+doi = {10.1145/3760390}
 }
 ```
 
