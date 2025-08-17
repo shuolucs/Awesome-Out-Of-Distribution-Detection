@@ -10,20 +10,12 @@
 > If you find our survey useful for your research, please cite the following paper:
 
 ```
-@article{10.1145/3760390,
-author = {Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and He, Lingxiao and Zheng, Aihua and Liang, Jian},
-title = {Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances},
-year = {2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {0360-0300},
-url = {https://doi.org/10.1145/3760390},
-doi = {10.1145/3760390},
-abstract = {Out-of-distribution (OOD) detection aims to detect test samples outside the training category space, which is an essential component in building reliable machine learning systems. Existing reviews on OOD detection primarily focus on method taxonomy, surveying the field by categorizing various approaches. However, many recent works concentrate on non-traditional OOD detection scenarios, such as test-time adaptation, multi-modal data sources and other novel contexts. In this survey, we uniquely review recent advances in OOD detection from the task-oriented perspective for the first time. According to the user’s access to the model, that is, whether the OOD detection method is allowed to modify or retrain the model, we classify the methods as training-driven or training-agnostic. Besides, considering the rapid development of pre-trained models, large pre-trained model-based OOD detection is also regarded as an important category and discussed separately. Furthermore, we provide a discussion of the evaluation scenarios, a variety of applications, and several future research directions. We believe this survey with new taxonomy will benefit the proposal of new methods and the expansion of more practical scenarios. A curated list of related papers is provided in the Github repository: https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection},
-note = {Just Accepted},
-journal = {ACM Comput. Surv.},
-month = aug,
-keywords = {Trustworthy Machine Learning, Out-of-distribution Detection}
+@article{lu2025out,
+  title={Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances},
+  author={Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and He, Lingxiao and Zheng, Aihua and Liang, Jian},
+  journal={ACM Computing Surveys},
+  year={2025},
+  publisher={ACM New York, NY}
 }
 ```
 
