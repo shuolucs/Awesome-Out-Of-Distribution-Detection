@@ -10,32 +10,18 @@
 > If you find our survey useful for your research, please cite the following paper:
 
 ```
-<<<<<<< Updated upstream
 @article{lu2025out,
   title={Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances},
   author={Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and He, Lingxiao and Zheng, Aihua and Liang, Jian},
   journal={ACM Computing Surveys},
   year={2025},
   publisher={ACM New York, NY}
-=======
-@article{10.1145/3760390,
-author = {Lu, Shuo and Wang, Yingsheng and Sheng, Lijun and He, Lingxiao and Zheng, Aihua and Liang, Jian},
-title = {Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances},
-year = {2025},
-publisher = {Association for Computing Machinery},
->>>>>>> Stashed changes
 }
 ```
 
 
 ## 📢 News
-
-
-<<<<<<< Updated upstream
 `[2025-08-04]:` 🎉 Exciting news! [Our survey](https://arxiv.org/abs/2409.11884) is accepted to ACM Computing Surveys (CSUR) 2025!
-=======
-`[2025-08-04]:` 🎉 Exciting news! [Our survey](https://dl.acm.org/doi/10.1145/3760390) is accepted to ACM Computing Surveys (CSUR) 2025!
->>>>>>> Stashed changes
 
 # Outline
 
