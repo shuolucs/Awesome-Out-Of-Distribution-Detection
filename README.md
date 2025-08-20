@@ -21,7 +21,7 @@
 
 
 ## 📢 News
-`[2025-08-18]:` 🏅 Our paper has been selected to appear in the Association for Computing Machinery (ACM) Showcase on Kudos!
+`[2025-08-18]:` 🏅 Our paper has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/hub/889920/publications)!
 
 `[2025-08-04]:` 🎉 Exciting news! [Our survey](https://arxiv.org/abs/2409.11884) is accepted to ACM Computing Surveys (CSUR) 2025!
 
