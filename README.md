@@ -165,7 +165,7 @@
 ## Approaches with Both ID and OOD Data
 
 ### Boundary Regularization
-
+- `M-HOOD` [Wu et al.]\[TPAMI 2026 (accepted)]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
 - `MixOE` \[Zhang et al.]\[WACV 2023]**Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-grained Environments**[[PDF](https://openaccess.thecvf.com/content/WACV2023/html/Zhang_Mixture_Outlier_Exposure_Towards_Out-of-Distribution_Detection_in_Fine-Grained_Environments_WACV_2023_paper.html)]\[[CODE](https://github.com/zjysteven/MixOE)]
 - `SSL-GOOD` \[Mohseni et al.]\[AAAI 2020]**Self-supervised learning for generalizable out-of-distribution detection**[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5966/5822)]
 - `EnergyOE` \[Liu et al.]\[NeurIPS 2020]**Energy-based out-of-distribution detection**[[PDF](https://arxiv.org/abs/2010.03759)]\[[CODE](https://github.com/wetliu/energy_ood)]
@@ -415,6 +415,7 @@ openreview.net/forum?id=UjtiLdXGMC)]\[[CODE](https://github.com/AtsuMiyai/LoCoOp
 
 ### Object Detection
 
+- `M-HOOD` [Wu et al.]\[TPAMI 2026 (accepted)]**Revisiting Out-of-Distribution Detection in Real-time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm**[[PDF](https://arxiv.org/html/2503.07330v3)][[CODE](https://gricad-gitlab.univ-grenoble-alpes.fr/dnn-safety/m-hood)]
 - ` mmood3d`[Kösel et al.]\[IV 2024]**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**[[PDF](https://arxiv.org/abs/2404.15879)]\[[CODE](https://github.com/uulm-mrm/mmood3d)]
 
 - ` Proto-OOD`[Chen et al.]\[arxiv 2024]**Proto-OOD: Enhancing OOD Object Detection with Prototype Feature Similarity**[[PDF](https://arxiv.org/abs/2409.05466)]
